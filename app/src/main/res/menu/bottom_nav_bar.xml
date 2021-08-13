@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu"
+        android:title="Menu"
+        android:icon="@drawable/ic_menuorange"
+
+        />
+    <item android:id="@+id/offer"
+        android:title="Offer"
+        android:icon="@drawable/ic_offerorange"
+
+        />
+    <item android:id="@+id/space"
+        android:title=""
+
+        />
+    <item android:id="@+id/profile"
+        android:title="Menu"
+        android:icon="@drawable/ic_profileorange"
+
+        />
+    <item android:id="@+id/more"
+        android:title="Menu"
+        android:icon="@drawable/ic_moreorange"
+
+        />
+
+</menu>

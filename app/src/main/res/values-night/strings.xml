@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="discover_the_best_foods_from_over_1_000">Discover the best foods from over 1,000</string>
+    <string name="retaurant_and_fast_delivery_to_your_doorstep">retaurant and fast delivery to your doorstep</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="add_your_details_to_login">Add your details to login</string>
+
+    <string name="password">Password</string>
+    <string name="or_login_with">or Login With</string>
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="don_t_have_account">Don\'t Have Account?</string>
+</resources>

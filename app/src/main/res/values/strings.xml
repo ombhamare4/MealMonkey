@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Meal Monkey</string>
+    <string name="discover_the_best_foods_from_over_1_000">Discover the best foods from over 1,000</string>
+    <string name="retaurant_and_fast_delivery_to_your_doorstep">retaurant and fast delivery to your doorstep</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="add_your_details_to_login">Add your details to login</string>
+    <string name="password">Password</string>
+    <string name="or_login_with">or Login With</string>
+    <string name="forgot_your_password">Forgot your password</string>
+    <string name="don_t_have_account">Don\'t Have Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="confirm_password">Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_all">View All</string>
+    <string name="popular_restaurants">Popular Restaurants</string>
+    <string name="cafe">Cafe</string>
+    <string name="western_food">Western Food</string>
+    <string name="_124_ratings">(124 ratings)</string>
+    <string name="minute_by_tuk_tuk">Minute by tuk tuk</string>
+    <string name="fish_curry_and_mixed_rice">Fish Curry and Mixed Rice</string>
+</resources>

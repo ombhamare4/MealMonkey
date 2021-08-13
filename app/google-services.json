@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145709543255",
+    "project_id": "mealmonkey-85220",
+    "storage_bucket": "mealmonkey-85220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145709543255:android:8897c6d08b6db2465b1812",
+        "android_client_info": {
+          "package_name": "com.rubiks.mealmonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145709543255-0r2m7g39jmf7lb0p4h83b9oju95rp9ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rubiks.mealmonkey",
+            "certificate_hash": "a39f8233d406d32fbe5c0326e6f30c6d77c735df"
+          }
+        },
+        {
+          "client_id": "145709543255-2cn937m6gecpqufa0jofu97ifchndljh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5r5Zj2BSYkp2nnjd5AphyWu1YESkv7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145709543255-2cn937m6gecpqufa0jofu97ifchndljh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

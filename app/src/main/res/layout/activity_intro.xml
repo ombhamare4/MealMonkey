@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".activity.IntroActivity">
+
+    <ImageView
+        android:id="@+id/imgtop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-10dp"
+        android:scaleType="center"
+        android:src="@drawable/topintro" />
+
+    <ImageView
+        android:id="@+id/imglogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgtop"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-130dp"
+        android:src="@drawable/logomonkey" />
+
+    <TextView
+        android:id="@+id/txtheadone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imglogo"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="@string/discover_the_best_foods_from_over_1_000"
+        android:textColor="#7c7d7e" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtheadone"
+        android:gravity="center"
+        android:text="@string/retaurant_and_fast_delivery_to_your_doorstep"
+        android:textColor="#7c7d7e" />
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/txtcreateaccount"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/filledbuttonorange"
+        android:text="@string/login"
+        android:textColorHint="@color/white" />
+
+    <Button
+        android:id="@+id/txtcreateaccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/borderbuttonorange"
+        android:text="@string/create_account"
+        android:textColorHint="@color/black" />
+
+</RelativeLayout>
