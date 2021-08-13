@@ -1,1 +1,256 @@
-
+{
+  "data":{
+    
+    "foodmenu":[
+      {
+        "id":"1001",
+        "foodtypeID":"2%0A",
+        "name":"Fish Curry and Mixed Rice",
+        "description":"There’s nothing more common to eat as Sri Lankan food than a nutritious plate of rice and curry. You normally get a plate of rice piled with a few of the daily vegetable curries and a choice of fish curry as well.",
+        "price":"400",
+        "img":"https://farm7.static.flickr.com/6043/6298653540_e484f43d4c_o.jpg"
+      },
+      {
+        "id":"1002",
+        "foodtypeID":"2%0A",
+        "name":"Deviled Sweet and Sour Fish Curry",
+        "description":"There are a lot of different deviled dishes in Sri Lanka. This fish was deep fried and smothered in a lovely sweet and sour sauce and lightly fried again with red onions and banana peppers. It was excellent with fried rice and a flatbread paratha on the side.",
+        "price":"450",
+        "img":"https://farm7.static.flickr.com/6229/6298647296_6f6e1c4541_o.jpg"
+      },
+      {
+        "id":"1003",
+        "foodtypeID":"2",
+        "name":"Chili Fish Curry",
+        "description":"This particular fish curry in Sri Lanka reminded me of the Burmese food curry that I also highly enjoyed, except it was often a bit heavier on the spice blend, which I loved.",
+        "price":"520",
+        "img":"https://farm7.static.flickr.com/6117/6298117611_3a25d117fa_o.jpg"
+      },
+      {
+        "id":"1004",
+        "foodtypeID":"2",
+        "name":"Sri Lankan Dhal Curry",
+        "description":"Dhal curry is one of the most commonly consumed staple dishes in Sri Lankan cuisine.The dhal, usually masoor dhal which are red lentils, are often cooked in a beautiful blend of spices, and then a few spoons of coconut milk are added to create a rich stew.",
+        "price":"400",
+        "img":"https://farm7.static.flickr.com/6223/6298648916_155a351b74_o.jpg"
+      },
+      {
+        "id":"1005",
+        "foodtypeID":"2",
+        "name":"Young Jackfruit Curry ",
+        "description":"Jackfruit is eaten in a number of different ripeness stages in Sri Lanka, but for preparing polos, the young, unripe jackfruit is used. The fruit is cut into chunks and simmered in a blend of rich spices.This particular version (brown dish above) was so delicious, I couldn’t stop eating it. The pieces of jackfruit were tender, and tasted almost like a juicier version of a potato, and they were filled with the beautiful flavor spices.",
+        "price":"400",
+        "img":"https://farm7.static.flickr.com/6051/6298117449_100301a062_o.jpg"
+      },
+      {
+        "id":"1006",
+        "foodtypeID":"2",
+        "name":"Beetroot Curry",
+        "description":"A plate of Sri Lankan curry and rice is complete only when a nice helping of beetroot curry is included! No that’s not really true, you can have a plate of curry without beetroot. However, when I was traveling in Sri Lanka, I came to love the beetroot curry – it’s such a wonderful dish.",
+        "price":"600",
+        "img":"https://farm7.static.flickr.com/6231/6298119163_5ba4a827e9_o.jpg"
+      },
+      {
+        "id":"1007",
+        "foodtypeID":"2",
+        "name":"Cheese Kottu",
+        "description":"If vegetarian kottu is the hamburger of Sri Lanka, cheese kottu is the quadruple bacon cheeseburger.Yellow curry powder flavor is bumped up a few notches with cheese kottu and it’s a Sri Lankan food that you just can’t miss. The cheese is not traditional yellow cheese, but rather more like cottage milk cheese.",
+        "price":"400",
+        "img":"https://farm7.static.flickr.com/6046/6298116355_53ea369f84_o.jpg"
+      },
+      {
+        "id":"1008",
+        "foodtypeID":"3",
+        "name":"Caprese Salad with Pesto Sauce",
+        "description":"Nothing like a fresh tomato salad in summers! A great antipasto bite to start your meal with. This combination of juicy tomatoes and mozzarella cheese salad topped with freshly made pesto sauce is a distinct yet simple one. It offers a twist to the classic caprese salad. ",
+        "price":"700",
+        "img":"https://i.ndtvimg.com/i/2017-09/caprese-salad_625x350_51506417724.jpg"
+      },
+      {
+        "id":"1009",
+        "foodtypeID":"3",
+        "name":"Panzenella",
+        "description":"Panzenella is a Tuscan bread salad, ideal for summer. It does not follow a particular recipe, but the two ingredients that do not change are tomatoes and bread. This salad is great with a chilled glass of Prosecco and lots of sunshine!",
+        "price":"750",
+        "img":"https://i.ndtvimg.com/i/2017-09/panzenella_600x300_71506417795.jpg"
+      },
+      {
+        "id":"1010",
+        "foodtypeID":"3",
+        "name":"Bruschetta",
+        "description":"An antipasto dish, bruschetta has grilled bread topped with veggies, rubbed garlic and tomato mix. A country bread sliced and topped with different toppings - the evergreen tomato-basil and an inventive mushroom-garlic. The classic Italian starter!",
+        "price":"600",
+        "img":"https://i.ndtvimg.com/i/2017-09/bruschetta_625x350_71506417841.jpg"
+      },
+      {
+        "id":"1011",
+        "foodtypeID":"3",
+        "name":"Pasta Carbonara",
+        "description":"This simple Roman pasta dish derives its name from 'carbone' meaning coal. It was a pasta popular with the coal miners. The original recipe calls for guanciale, which is pig's cheek, but since its not easily available, the chef has used bacon instead. ",
+        "price":"700",
+        "img":"https://i.ndtvimg.com/i/2017-09/pasta-carbonara_600x300_41506417953.jpg"
+      },
+      {
+        "id":"1012",
+        "foodtypeID":"3",
+        "name":"Margherita Pizza",
+        "description":"Fancy a pipping hot pizza, fresh out of the oven? Create one at home! Margherita Pizza is to many the true Italian flag. One of the most loved Italian dishes, it just takes a few simple ingredients and you get insanely delicious results! You just can't go wrong with that tomato, basil and fresh mozzarella combo.",
+        "price":"500",
+        "img":"https://i.ndtvimg.com/i/2017-09/margherita-pizza_600x300_51506418004.jpg"
+      },
+      {
+        "id":"1013",
+        "foodtypeID":"4",
+        "name":"Chicken Makhani",
+        "description":"Butter chicken is mouth-watering, tender chicken, cooked in a spiced tomato sauce. It’s traditionally cooked in a tandoor (a cylindrical clay or metal oven), but may be grilled, roasted or pan-fried in less authentic preparations.",
+        "price":"550",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/butter-chicken-Chicken-Makhani.jpg"
+      },
+      {
+        "id":"1014",
+        "foodtypeID":"4",
+        "name":"Samosas",
+        "description":"Samosas are a very popular traditional Indian Dish. Probably because samosas are a tasty, fried, or baked pastry with savory fillings.Spiced potatoes, onions, peas, and lentils fill traditional samosas. But sometimes, they are made with ground lamb, ground beef or ground chicken.",
+        "price":"200",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/top-10-indian-dishes-samosas.jpg"
+      },
+      {
+        "id":"1015",
+        "foodtypeID":"4",
+        "name":"Margherita Pizza",
+        "description":"Fancy a pipping hot pizza, fresh out of the oven? Create one at home! Margherita Pizza is to many the true Italian flag. One of the most loved Italian dishes, it just takes a few simple ingredients and you get insanely delicious results! You just can't go wrong with that tomato, basil and fresh mozzarella combo.",
+        "price":"500",
+        "img":"https://i.ndtvimg.com/i/2017-09/margherita-pizza_600x300_51506418004.jpg"
+      },
+      {
+        "id":"1016",
+        "foodtypeID":"4",
+        "name":"Aloo Gobi",
+        "description":"Aloo Gobi is a dry, vegan Indian dish, made with potatoes (aloo), cauliflower (gobi), and Indian spices. It has a warm, yellow-orange color, because it uses a staple in Indian dishes: turmeric.",
+        "price":"250",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/Indian-Cauliflower-Potatoe.jpg"
+      },
+      {
+        "id":"1017",
+        "foodtypeID":"4",
+        "name":"Naan",
+        "description":"If you’ve never experienced good naan bread, your life has been much less delicious than it could be.Naan is a leavened, oven-baked flatbread. You normally serve Naan with all meals.This bread is the perfect combination of chewy and crispy, buttery and garlicky. It’s exactly what every Indian dish needs to complement the otherwise bright and intense flavors.",
+        "price":"100",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/garlic-naam.jpg"
+      },
+      {
+        "id":"1018",
+        "foodtypeID":"4",
+        "name":"Margherita Pizza",
+        "description":"Fancy a pipping hot pizza, fresh out of the oven? Create one at home! Margherita Pizza is to many the true Italian flag. One of the most loved Italian dishes, it just takes a few simple ingredients and you get insanely delicious results! You just can't go wrong with that tomato, basil and fresh mozzarella combo.",
+        "price":"500",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/garlic-naam.jpg"
+      },
+      {
+        "id":"1019",
+        "foodtypeID":"4",
+        "name":"Matar Paneer",
+        "description":"Matar paneer comes from regions of northern India. It’s made up of a yummy tomato sauce over paneer (farmer’s cheese) and peas, and spiced with garam masala.Like many Indian dishes, matar paneer is best when paired with a cooling side dish, like cream or bread.",
+        "price":"600",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/Matar-Paneer-Peas-and-Cooked-Cottage-Cheese.jpg"
+      },
+      {
+        "id":"1020",
+        "foodtypeID":"4",
+        "name":"Rogan Josh",
+        "description":"Rogan Josh consists of braised lamb chunks cooked with gravy. Generally, Indian chefs make this gravy from browned onions, yogurt, garlic, ginger, and aromatic spices.",
+        "price":"500",
+        "img":"https://www.blueosa.com/wp-content/uploads/2020/07/curried-meat-Indian-dshes.jpg"
+      },
+      {
+        "id":"1021",
+        "foodtypeID":"4",
+        "name":"Lassi",
+        "description":"Lassi’s are yogurt-based drinks made with water, spices, and sometimes fruit. Mango or cardamom-flavored lassis are some of the most popular, but did you know that there are also savory ones? Milk and salt might not sound good to you, but in India, it’s not so uncommon.",
+        "price":"50",
+        "img":"https://image.shutterstock.com/image-photo/authentic-indian-cold-drink-made-260nw-669715123.jpg"
+      },
+      {
+        "id":"1022",
+        "foodtypeID":"5",
+        "name":"Sushi",
+        "description":"Sushi is one of the best known Japanese foods around the world. It is offered in various ways and prices, from the entertaining kaiten-zushi (conveyor belt sushi), where visitors can enjoy sushi for a reasonable price of about 100 yen per plate, to high-end, long-established, traditional Edomae sushi (Edo-style sushi) where you will sit at a quiet counter to eat as the sushi is prepared right before your eyes.",
+        "price":"350",
+        "img":"https://resources.matcha-jp.com/archive_files/jp/2016/08/20160823_sushi2.jpg"
+      },
+      {
+        "id":"1023",
+        "foodtypeID":"5",
+        "name":"Unagi - Grilled Eel",
+        "description":"Unagi, or eel, is a fish known to be found mainly in rivers. In Japan, it is a delicacy typical in high-class Japanese dining. There are also many casual restaurants that specialize in unagi dishes. At unagi restaurants, you will be able to enjoy kabayaki, where the unagi is put on skewers and grilled with a special sauce containing soy sauce, mirin, sugar, and sake. Unadon, a dish of kabayaki on top of white rice, is also offered at these establishments.",
+        "price":"550",
+        "img":"https://resources.matcha-jp.com/archive_files/jp/2015/07/unagi1.jpg"
+      },
+      {
+        "id":"1024",
+        "foodtypeID":"5",
+        "name":"Tempura",
+        "description":"Tempura is a dish involving ingredients like seafood, meat, and vegetables covered in batter and deep-fried in oil. The batter usually contains flour and egg. Tempura is generally dipped in a special sauce called tentsuyu before eating. Tentsuyu is a sauce made of broth from kombu or dried bonito, mirin, and soy sauce mixed at a ratio of 4:1:1 and cooked. You can add ginger or grated radish to your liking for a more refreshing taste.",
+        "price":"400",
+        "img":"https://resources.matcha-jp.com/archive_files/jp/2015/09/ginza_gonpachi_20140914v.jpg"
+      },
+      {
+        "id":"1025",
+        "foodtypeID":"5",
+        "name":"Onigiri - Rice Balls",
+        "description":"You may have heard of onigiri, or rice balls, before. Onigiri, also called omusubi, may just look like plain rice, but they often have a savory filling inside and are wrapped with a salty sheet of nori seaweed. They are made in bento lunches by families and often seen sold in convenience stores and supermarkets. This is a classic choice for a snack or light meal.",
+        "price":"500",
+        "img":"https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76330.jpeg"
+      },
+       {
+        "id":"1026",
+        "foodtypeID":"6",
+        "name":"Kimchi",
+        "description":"This signature Korean dish has been around for more than 2,000 years, dating back to the Shilla Dynasty. Kimchi consists of Korean cabbage, radish, pumpkin, onion, ginger, and scallion with chili powder, crushed garlic and salted seafood, which is then left to fermen",
+        "price":"560",
+        "img":"https://a.cdn-hotels.com/gdcs/production188/d1042/560f847f-c64a-4009-9422-1723c2739c36.jpg"
+      },
+       {
+        "id":"1027",
+        "foodtypeID":"6",
+        "name":"Bibimbap",
+        "description":"Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.",
+        "price":"500",
+        "img":"https://resources.matcha-jp.com/resize/720x2000/2019/05/06-76330.jpeg"
+      },
+       {
+        "id":"1028",
+        "foodtypeID":"6",
+        "name":"Korean stew",
+        "description":"There are many different varieties of jjigae in Seoul, but this Korean stew usually contains meat, seafood or vegetables in a broth seasoned with hot pepper paste (gochujang), fermented miso (gaenjang), soybean paste, or salted fermented shrimp (saeujeot). Usually served as a palate cleanser between heavier dishes, jjigae has a similar consistency to a western stew.",
+        "price":"700",
+        "img":"https://a.cdn-hotels.com/gdcs/production127/d1648/2c7d2e80-846b-452f-938a-aad111e71c8b.jpg"
+      },
+       {
+        "id":"1029",
+        "foodtypeID":"7",
+        "name":"Chilaquiles",
+        "description":"This popular traditional breakfast dish features lightly fried corn tortillas cut into quarters and topped with green or red salsa (the red is slightly spicier). Scrambled or fried eggs and pulled chicken are usually added on top, as well as cheese and cream. Chilaquiles are often served with a healthy dose of frijoles (refried beans).",
+        "price":"700",
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chilaquiles-d90d64c.jpg?webp=true&quality=90&resize=408%2C204"
+      },
+      {
+        "id":"1030",
+        "foodtypeID":"7",
+        "name":"Tostadas",
+        "description":"What should you do with stale tortillas? Why, fry them of course! Literally meaning toasted, tostadas are a simple but delicious dish involving corn tortillas fried in boiling oil until they become crunchy and golden. These are then served alone or piled high with any number of garnishes. Popular toppings include frijoles (refried beans), cheese, cooked meat, seafood and ceviche.",
+        "price":"400",
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/carb-tostadas-aec271b.jpg?webp=true&quality=90&resize=408%2C204"
+      },
+      {
+        "id":"1031",
+        "foodtypeID":"7",
+        "name":"Elote",
+        "description":"You’ll find someone selling elote, the Mexican name for corn on the cob, on nearly every city street corner in Mexico. The corn is traditionally boiled and served either on a stick (to be eaten like an ice cream) or in cups, the kernels having been cut off the cob. Salt, chilli powder, lime, butter, cheese, mayonnaise and sour cream are then added in abundance.",
+        "price":"300",
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/corn-on-the-cobs-dd5c99e.jpg?webp=true&quality=90&resize=408%2C204"
+      },
+      ],
+      "success": true,
+  }
+}
